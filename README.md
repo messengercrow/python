@@ -4,7 +4,7 @@
 This Python script is designed to facilitate the conversion of metric measurements and temperatures to imperial units. It aims to simplify the process of handling product specification tables copied from EU/SEA sources, which commonly use metric units. Whether you have dimensions specified in formats like "12\*13\*14mm" or "10°C~20°C", this converter allows quick and accurate conversion to imperial units (inches for dimensions and Fahrenheit for temperatures).
 
 ## Intended Use
-- **Dimensions Conversion:** Copy and paste dimensions like "12*13*14mm" or "12mm x 13mm x 14mm" to convert them to inches.
+- **Dimensions Conversion:** Copy and paste dimensions like "12\*13\*14mm" or "12mm x 13mm x 14mm" to convert them to inches.
 - **Temperature Conversion:** Convert temperatures specified as a single value like "10°C" or a range like "10°C~20°C" to Fahrenheit.
 
 ## How to Use
